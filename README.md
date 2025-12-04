@@ -1,11 +1,10 @@
-# 👋 Hi there! I'm Lorehjun, your web developer 💚🛠️
+# 👋 Hi there! I'm Lohrejuhn, your web developer 💚🛠️
 
 ## 💻 About Me 🌿🟢
 - 🌿 Lover of green vibes
-- 🎮 Roblox enthusiast
 - 🐍 Python & Django developer
-- 💎 Laravel aficionado
-- 🤫 Fun fact: I’m quiet but deadly with code 😎
+- 💎 Enjoy writing code
+- 🤫 Fun fact: I’m always looking fo solutions. 😎
 
 ---
 
@@ -17,15 +16,13 @@
 ---
 
 ## 🎮 Hobbies 🟢🎯
-- Roblox game developer & player
 - Gaming & chill in green vibes
 - Learning new frameworks & coding tricks
 
 ---
 
 ## 🚀 Projects & Work 💚💻
-- Developed a Roblox mini-game with custom scripts and UI  
-- Built Django-based web apps: blogs, e-commerce, dashboards  
+- Built Django-based web apps: project management  
 - Created Laravel projects: CRUD apps, API integrations  
 
 ---
@@ -34,13 +31,13 @@
 - Strong problem-solving and debugging skills  
 - Clean, maintainable, and scalable code  
 - Quick learner of new frameworks and technologies  
-- Collaboration with team projects and version control (Git/GitHub)  
+- Collaboration with team projects and version control
 
 ---
 
 ## 🎯 Goals & Learning 📈🟢
-- Master advanced Django & Laravel features  
-- Explore game development beyond Roblox  
+- Master advanced Django & Laravel features
+- Explore game development
 - Contribute to open-source projects  
 - Keep improving coding efficiency and best practices  
 
